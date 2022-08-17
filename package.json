@@ -42,7 +42,8 @@
     "docgen": "docgen --api EmailComposerPlugin --output-readme README.md --output-json dist/docs.json && doctoc README.md --github --title '**Table of Content**' --maxlevel 3",
     "build": "npm run clean && tsc && rollup -c rollup.config.js",
     "clean": "rimraf ./dist",
-    "watch": "tsc --watch"
+    "watch": "tsc --watch",
+    "prepare": "npm run clean && tsc && rollup -c rollup.config.js"
   },
   "devDependencies": {
     "@capacitor/android": "^4.0.1",
