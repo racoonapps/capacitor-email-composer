@@ -7,9 +7,10 @@
 This Plugin is used to open a native E-Mail Composer within your Capacitor App.
 
 <!-- DONATE -->
+Please consider donating to EinfachHans as the original author: 
 [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG_global.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=LMX5TSQVMNMU6&source=url)
 
-This and other Open-Source Cordova/Capacitor Plugins are developed in my free time.
+This and other Open-Source Cordova/Capacitor Plugins are developed in free time.
 To help ensure this plugin is kept updated, new features are added and bugfixes are implemented quickly, please donate a couple of dollars (or a little more if you can stretch) as this will help me to afford to dedicate time to its maintenance.
 Please consider donating if you're using this plugin in an app that makes you money, if you're being paid to make the app, if you're asking for new features or priority bug fixes.
 <!-- END DONATE -->
