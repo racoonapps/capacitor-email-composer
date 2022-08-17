@@ -1,3 +1,9 @@
+### [1.1.4](https://github.com/racoonapps/capacitor-email-composer/compare/V1.1.2...V1.1.3) (2022-08-17)
+
+### Features
+
+* added Support for Capacitor v4
+
 ### [1.1.3](https://github.com/EinfachHans/capacitor-email-composer/compare/V1.1.2...V1.1.3) (2021-11-30)
 
 

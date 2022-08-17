@@ -1,9 +1,8 @@
 # Capacitor E-Mail Composer
 
-![Maintenance](https://img.shields.io/maintenance/yes/2021)
-[![npm](https://img.shields.io/npm/v/capacitor-email-composer)](https://www.npmjs.com/package/capacitor-email-composer)
+![Maintenance](https://img.shields.io/maintenance/yes/2022)
 
-👉🏼 **Note**: this Plugin is developed for Capacitor V3
+👉🏼 **Note**: this Plugin is forked from EinfachHans Repository to work with Capacitor V4
 
 This Plugin is used to open a native E-Mail Composer within your Capacitor App.
 
@@ -17,7 +16,7 @@ Please consider donating if you're using this plugin in an app that makes you mo
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Content**
+'**Table
 
 - [Install](#install)
 - [API](#api)
@@ -31,7 +30,7 @@ Please consider donating if you're using this plugin in an app that makes you mo
 ## Install
 
 ```bash
-npm install capacitor-email-composer
+npm install @racoonapps/capacitor-email-composer
 npx cap sync
 ```
 
